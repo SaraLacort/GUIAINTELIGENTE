@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guia-inteligente-renda-extra.shadyflair2.chatgpt.site/sitemap.xml
